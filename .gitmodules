@@ -1,0 +1,3 @@
+[submodule "mq-docker"]
+	path = mq-docker
+	url = git@github.com:ibm-messaging/mq-docker.git
